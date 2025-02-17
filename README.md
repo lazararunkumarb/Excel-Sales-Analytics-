@@ -1,15 +1,15 @@
 # Sales and Finance Analytics
 
-###Project Overview 
+### Project Overview 
 
-###Data Sources
+### Data Sources
 
-###Tools
+### Tools
 
-###Data Cleaning/Preparation 
+### Data Cleaning/Preparation 
 
-###Exploratory Data Analysis 
+### Exploratory Data Analysis 
 
-###Data Analysis 
+### Data Analysis 
 
-###Results 
+### Results 
