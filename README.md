@@ -2,6 +2,8 @@
 
 ### Project Overview 
 
+### AtliQ's Business Model
+
 ### Data Sources
 
 ### Tools
